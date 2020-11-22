@@ -217,7 +217,7 @@ public:
         } while( a < 20000000 );*/
 
 
-        vSeeds.push_back(CDNSSeedData("lucent.org", "dnsseed.lucent.org"));
+       // vSeeds.push_back(CDNSSeedData("lucent.org", "dnsseed.lucent.org"));
 
 
         // Lucent addresses start with 'L'
