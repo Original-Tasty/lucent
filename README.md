@@ -1,3 +1,5 @@
+![](logo/lucent.png)
+
 Lucent Core Staging Tree v0.13.0.1
 ===============================
 
